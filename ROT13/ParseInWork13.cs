@@ -113,7 +113,7 @@ public class ParseInWork13
             }
             Console.WriteLine();
             Console.WriteLine();
-            Console.Write($"Текст до шифрофания - : {enter}");
+            Console.Write($"Текст до шифрования - : {enter}");
             Console.WriteLine();
         }
     }
